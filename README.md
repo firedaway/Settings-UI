@@ -1,5 +1,5 @@
 # Settings-UI #
-Be sure to follow the README
+Be sure to read over the scripts in order to make sure you don't mess anything up!
 
 ## Directions ##
 Drag each folder to its respective location (name of the folder) and ungroup said folder
