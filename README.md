@@ -1,5 +1,5 @@
 # Settings-UI #
-Be sure to follow the README in the main folder
+Be sure to follow the README
 
 ## Directions ##
 Drag each folder to its respective location (name of the folder) and ungroup said folder
