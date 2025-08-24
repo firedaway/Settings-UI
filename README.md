@@ -9,7 +9,11 @@ Customizable and easy-to-use example GUI with DataStore functionality to provide
 
 ## Features (WIP) ##
 • Buttons
+
 • Toggles
+
 • Keybinds
+
 • Sliders
+
 • Dropdowns
