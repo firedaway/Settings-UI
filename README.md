@@ -6,3 +6,10 @@ Drag each folder to its respective location (name of the folder) and ungroup sai
 
 ## Information ##
 Customizable and easy-to-use example GUI with DataStore functionality to provide developers  a neat and clean-looking settings UI for their game
+
+## Features (WIP) ##
+• Buttons
+• Toggles
+• Keybinds
+• Sliders
+• Dropdowns
