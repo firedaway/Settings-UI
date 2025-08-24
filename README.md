@@ -18,4 +18,4 @@ Customizable and easy-to-use example GUI with DataStore functionality to provide
 
 • Dropdowns
 
-https://raw.githubusercontent.com/firedaway/Settings-UI/main/pictures/picture.png
+<img width="399" height="296" alt="image" src="https://github.com/user-attachments/assets/9c5cb7af-45ae-416c-9d5b-793e7f16109c" />
